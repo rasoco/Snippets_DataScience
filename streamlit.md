@@ -29,3 +29,8 @@ st.bokeh_chart(nombre_fichero) #*bokeh*
 ```python
 !streamlit run test.py
 ```
+## Referencias:
+
+https://www.streamlit.io/
+
+https://docs.streamlit.io/en/stable/api.html
