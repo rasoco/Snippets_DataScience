@@ -23,7 +23,7 @@ st.markdown("""# Hemos registrado la esperanza de vida y la renta per capita en 
 *negrita*"""
 
 st.write(chart_life) #*altair*
-st.bokeh_chart(nombre) #*bokeh*
+st.bokeh_chart(nombre_fichero) #*bokeh*
 ```
 4. Ejecuto el fichero test.py. Solo ficheros .py
 ```python
